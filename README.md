@@ -1,7 +1,7 @@
 # spring-boot-email
 Spring Boot Sending Email with Freemarker HTML Templete
 
-#POST REQUEST:-
+# POST REQUEST:-
 ```http://localhost:8080/sendingEmail```
 ```json
 {
@@ -11,7 +11,7 @@ Spring Boot Sending Email with Freemarker HTML Templete
 	"name": "DEMO NAME"
 }
 ```
-#OutPut:-
+# OutPut:-
 ```
 {
     "message": "mail send to : abc@gmail.com",
